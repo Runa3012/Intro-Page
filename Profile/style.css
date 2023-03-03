@@ -77,13 +77,14 @@ section{
         z-index: 1000;
     }
     
-    header .logo{
+    header .logo span1{
         font-size: 2rem;
-        color:var(--purple);
+        color:var(--pink);
     }
     
-    header .logo span{
-        color:var(--pink);
+    header .logo span2{
+        font-size: 2rem;
+        color:var(--purple);
     }
     
     header .navbar a{
